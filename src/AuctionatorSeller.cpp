@@ -6,6 +6,7 @@
 #include "PreparedStatement.h"
 #include "QueryResult.h"
 #include <random>
+#include "QueryResult.h"
 
 
 AuctionatorSeller::AuctionatorSeller(Auctionator* natorParam, uint32 auctionHouseIdParam)
